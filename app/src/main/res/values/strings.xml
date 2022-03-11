@@ -15,4 +15,5 @@
     <string name="temperature">Temperature</string>
     <string name="humidity">Humidity</string>
     <string name="luminosity">Luminosity</string>
+    <string name="select">Look to top corner left to view different data</string>
 </resources>

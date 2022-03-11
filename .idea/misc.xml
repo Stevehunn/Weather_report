@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/steve/AndroidStudioProjects/Weatherreport/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1975" />
         <entry key="..\:/Users/steve/AndroidStudioProjects/Weatherreport/app/src/main/res/drawable/side_nav_bar.xml" value="0.1245" />
         <entry key="..\:/Users/steve/AndroidStudioProjects/Weatherreport/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/steve/AndroidStudioProjects/Weatherreport/app/src/main/res/layout/app_bar_main.xml" value="0.4074492099322799" />
@@ -11,6 +12,7 @@
         <entry key="..\:/Users/steve/AndroidStudioProjects/Weatherreport/app/src/main/res/layout/fragment_gallery.xml" value="0.1598731884057971" />
         <entry key="..\:/Users/steve/AndroidStudioProjects/Weatherreport/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/steve/AndroidStudioProjects/Weatherreport/app/src/main/res/layout/fragment_luminosity.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/steve/AndroidStudioProjects/Weatherreport/app/src/main/res/layout/fragment_slideshow.xml" value="0.18958333333333333" />
         <entry key="..\:/Users/steve/AndroidStudioProjects/Weatherreport/app/src/main/res/layout/nav_header_main.xml" value="0.1598731884057971" />
         <entry key="..\:/Users/steve/AndroidStudioProjects/Weatherreport/app/src/main/res/menu/activity_main_drawer.xml" value="0.18802083333333333" />
       </map>
