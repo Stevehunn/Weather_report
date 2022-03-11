@@ -26,6 +26,6 @@
     <fragment
         android:id="@+id/nav_luminosity"
         android:name="com.example.weatherreport.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
+        android:label="@string/luminosity"
         tools:layout="@layout/fragment_luminosity" />
 </navigation>
