@@ -10,15 +10,15 @@
             android:title="@string/menu_home" />
         <item
             android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
+            android:icon="@drawable/temperaturejaugemodifie"
+            android:title="@string/temperature" />
         <item
             android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
+            android:icon="@drawable/goute"
+            android:title="@string/humidity" />
         <item
             android:id="@+id/nav_luminosity"
-            android:icon="@drawable/temperature"
+            android:icon="@drawable/lumiere"
             android:title="@string/luminosity" />
     </group>
 </menu>
